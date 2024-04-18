@@ -2,7 +2,7 @@
 A lightweight and secure script that reminds and notifies you of the current Major Order and Planets available to play in Helldivers 2. Automation is configurable.
 
 ## Features
-* **Lightweight** - With only 68 lines of code, this script requires minimal resources.
+* **Lightweight** - With only ±65 lines of code, this script requires minimal resources.
 * **Free & Secure** - Google Apps Script is a service that is currently free and very secure.
 * **Ease** - After setting it up, the script can run without a browser or you being online. If configured correctly, you won't need to maintain and look at the code again.
 
